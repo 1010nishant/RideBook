@@ -1,50 +1,70 @@
-# Welcome to your Expo app 👋
+# RideBook
+This is a React Native project that replicates the functionality of Uber. 
+The technologies and libraries used include **Google Cloud for maps and directions, Razor payment gateway, Redux Toolkit, and PostgreSQL**.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Interface of application:
 
-## Get started
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
+## welcome and signup screen:
+<table align="center">
+<tr border="none">
+<td width="20%" align="center">
+  
+  <img  align="center"  src="https://github.com/user-attachments/assets/a629f453-af0d-49e9-87a0-d0a185eec919" />
+  
+</td>
 
-   ```bash
-    npx expo start
-   ```
+<td width="20%" align="center">
 
-In the output, you'll find options to open the app in a
+ <img  src="https://github.com/user-attachments/assets/187eae49-28c3-46d9-8f71-1057a97ad59d" /> 
+  
+  </td>
+  <td width="20%" align="center">
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+ <img  src="https://github.com/user-attachments/assets/44197a52-1b70-433e-93d2-6b43d81eb109" /> 
+  
+  </td>
+  <td width="20%" align="center">
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+ <img  src="https://github.com/user-attachments/assets/e0657b1d-acf4-4a59-b6f9-69273a257579" /> 
+  
+  </td>
+</tr>
+</table>
 
-## Get a fresh project
 
-When you're ready, run:
+## Home Screens:
+<table align="center">
+<tr border="none">
+   <td width="20%" align="center">
 
-```bash
-npm run reset-project
-```
+ <img  src="https://github.com/user-attachments/assets/916ec9d8-6db8-4f08-96fa-a9b5af1290b8" /> 
+  
+  </td>
+<!-- <td width="20%" align="center"> -->
+  
+ <!-- <img  align="center"  src="https://github.com/user-attachments/assets/f7eec133-3fc8-45d5-9b38-3832520b70e2" />-->
+  
+<!-- </td> -->
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+  <td width="20%" align="center">
 
-To learn more about developing your project with Expo, look at the following resources:
+ <img  src="https://github.com/user-attachments/assets/492a7366-13dc-49f5-ae43-d08009bc06e7" /> 
+  
+  </td>
+  <td width="20%" align="center">
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+ <img  src="https://github.com/user-attachments/assets/3674fe07-4d27-4db1-b1a4-9f6196d45b37" /> 
+  
+  </td>
+  <td width="20%" align="center">
 
-## Join the community
+ <img  src="https://github.com/user-attachments/assets/93aa8fd9-9977-4ff2-8d23-bda184aac032" /> 
+  
+  </td>
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+</tr>
+</table>
